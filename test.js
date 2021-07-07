@@ -11,6 +11,6 @@ function sum(a,b){
     return c;
 }
 
-console.log(sum(5, 6));
+console.log(typeof(sum('habib', 6)));
 
 /* js is a loosely typed language...*/
